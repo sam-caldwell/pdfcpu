@@ -7,8 +7,8 @@ require (
 	github.com/hhrutter/tiff v1.0.1
 	github.com/mattn/go-runewidth v0.0.15
 	github.com/pkg/errors v0.9.1
-	golang.org/x/image v0.15.0
-	golang.org/x/text v0.14.0
+	golang.org/x/image v0.18.0
+	golang.org/x/text v0.16.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
